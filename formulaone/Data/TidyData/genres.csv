@@ -1,0 +1,351 @@
+,ID_movie,title,genre
+0,0,12 Years a Slave,Biography
+0,0,12 Years a Slave,Drama
+0,0,12 Years a Slave,History
+1,1,2 Guns,Action
+1,1,2 Guns,Comedy
+1,1,2 Guns,Crime
+1,1,2 Guns,Drama
+1,1,2 Guns,Thriller
+2,2,42,Biography
+2,2,42,Drama
+2,2,42,Sport
+3,3,About Time,Comedy
+3,3,About Time,Drama
+3,3,About Time,Sci-Fi
+4,4,Adore,Drama
+5,5,After Earth,Action
+5,5,After Earth,Adventure
+5,5,After Earth,Sci-Fi
+6,6,American Hustle,Drama
+7,7,Anchorman 2: The Legend Continues,Comedy
+8,8,Austenland,Comedy
+8,8,Austenland,Romance
+9,9,Bad Grandpa,Comedy
+10,10,Baggage Claim,Comedy
+11,11,Battle of the Year,Music
+12,12,Behind the Candelabra,Biography
+12,12,Behind the Candelabra,Drama
+12,12,Behind the Candelabra,Romance
+13,13,Big Sur,Drama
+14,14,Blue Jasmine,Comedy
+14,14,Blue Jasmine,Drama
+15,15,C.O.G.,Comedy
+15,15,C.O.G.,Drama
+16,16,CBGB,Drama
+16,16,CBGB,History
+16,16,CBGB,Music
+17,17,Captain Phillips,Action
+17,17,Captain Phillips,Biography
+17,17,Captain Phillips,Drama
+17,17,Captain Phillips,Thriller
+18,18,Carrie,Drama
+18,18,Carrie,Horror
+19,19,Cloudy with a Chance of Meatballs 2,Animation
+19,19,Cloudy with a Chance of Meatballs 2,Comedy
+19,19,Cloudy with a Chance of Meatballs 2,Family
+19,19,Cloudy with a Chance of Meatballs 2,Sci-Fi
+20,20,Curse of Chucky,Horror
+20,20,Curse of Chucky,Thriller
+21,21,Despicable Me 2,Animation
+21,21,Despicable Me 2,Adventure
+21,21,Despicable Me 2,Comedy
+21,21,Despicable Me 2,Crime
+21,21,Despicable Me 2,Family
+21,21,Despicable Me 2,Sci-Fi
+22,22,Dom Hemingway,Comedy
+22,22,Dom Hemingway,Crime
+22,22,Dom Hemingway,Drama
+23,23,Elysium,Action
+23,23,Elysium,Drama
+23,23,Elysium,Sci-Fi
+23,23,Elysium,Thriller
+24,24,Empire State,Action
+24,24,Empire State,Drama
+25,25,Ender's Game,Action
+25,25,Ender's Game,Adventure
+25,25,Ender's Game,Sci-Fi
+26,26,Enough Said,Comedy
+27,27,Epic,Animation
+27,27,Epic,Adventure
+27,27,Epic,Family
+27,27,Epic,Fantasy
+28,28,Escape Plan,Action
+28,28,Escape Plan,Mystery
+28,28,Escape Plan,Thriller
+29,29,Escape from Tomorrow,Drama
+29,29,Escape from Tomorrow,Fantasy
+29,29,Escape from Tomorrow,Horror
+30,30,Evil Dead,Horror
+31,31,Filth,Comedy
+31,31,Filth,Crime
+31,31,Filth,Drama
+32,32,Frozen,Animation
+32,32,Frozen,Action
+32,32,Frozen,Adventure
+32,32,Frozen,Comedy
+32,32,Frozen,Family
+32,32,Frozen,Fantasy
+32,32,Frozen,Musical
+32,32,Frozen,Mystery
+32,32,Frozen,Romance
+32,32,Frozen,Thriller
+33,33,Furious 6,Action
+33,33,Furious 6,Crime
+33,33,Furious 6,Thriller
+34,34,G.I. Joe: Retaliation,Action
+34,34,G.I. Joe: Retaliation,Adventure
+34,34,G.I. Joe: Retaliation,Sci-Fi
+34,34,G.I. Joe: Retaliation,Thriller
+35,35,Gangster Squad,Action
+35,35,Gangster Squad,Crime
+35,35,Gangster Squad,Drama
+35,35,Gangster Squad,Thriller
+36,36,Generation Iron,Documentary
+36,36,Generation Iron,Drama
+37,37,Ghost Team One,Comedy
+37,37,Ghost Team One,Horror
+38,38,Gravity,Drama
+38,38,Gravity,Sci-Fi
+38,38,Gravity,Thriller
+39,39,Grown Ups 2,Comedy
+40,40,Hansel & Gretel: Witch Hunters,Action
+40,40,Hansel & Gretel: Witch Hunters,Fantasy
+40,40,Hansel & Gretel: Witch Hunters,Horror
+41,41,Homefront,Action
+41,41,Homefront,Thriller
+42,42,Hummingbird,Action
+42,42,Hummingbird,Crime
+42,42,Hummingbird,Drama
+42,42,Hummingbird,Thriller
+43,43,I Spit on Your Grave 2,Crime
+43,43,I Spit on Your Grave 2,Horror
+43,43,I Spit on Your Grave 2,Thriller
+44,44,Insidious: Chapter 2,Horror
+44,44,Insidious: Chapter 2,Thriller
+45,45,Iron Man 3,Action
+45,45,Iron Man 3,Adventure
+45,45,Iron Man 3,Sci-Fi
+46,46,Kill Your Darlings,Biography
+46,46,Kill Your Darlings,Drama
+46,46,Kill Your Darlings,Romance
+46,46,Kill Your Darlings,Thriller
+47,47,Lone Survivor,Action
+47,47,Lone Survivor,Drama
+47,47,Lone Survivor,Thriller
+47,47,Lone Survivor,War
+48,48,Machete Kills,Action
+48,48,Machete Kills,Crime
+48,48,Machete Kills,Thriller
+49,49,Man of Steel,Action
+49,49,Man of Steel,Adventure
+49,49,Man of Steel,Fantasy
+49,49,Man of Steel,Sci-Fi
+50,50,Metallica Through the Never,Action
+50,50,Metallica Through the Never,Music
+51,51,Monsters University,Animation
+51,51,Monsters University,Adventure
+51,51,Monsters University,Comedy
+51,51,Monsters University,Family
+51,51,Monsters University,Fantasy
+52,52,Movie 43,Comedy
+53,53,Nebraska,Adventure
+53,53,Nebraska,Drama
+54,54,No se Aceptan Devoluciones,Comedy
+54,54,No se Aceptan Devoluciones,Drama
+55,55,Now You See Me,Crime
+55,55,Now You See Me,Mystery
+55,55,Now You See Me,Thriller
+56,56,Oblivion,Action
+56,56,Oblivion,Adventure
+56,56,Oblivion,Mystery
+56,56,Oblivion,Sci-Fi
+57,57,Oldboy,Action
+57,57,Oldboy,Drama
+57,57,Oldboy,Mystery
+57,57,Oldboy,Thriller
+58,58,Olympus Has Fallen,Action
+58,58,Olympus Has Fallen,Thriller
+59,59,One Chance,Biography
+59,59,One Chance,Comedy
+59,59,One Chance,Music
+60,60,One Direction: This Is Us,Documentary
+60,60,One Direction: This Is Us,Music
+61,61,Only God Forgives,Crime
+61,61,Only God Forgives,Drama
+61,61,Only God Forgives,Thriller
+62,62,Oz the Great and Powerful,Adventure
+62,62,Oz the Great and Powerful,Family
+62,62,Oz the Great and Powerful,Fantasy
+63,63,Pacific Rim,Action
+63,63,Pacific Rim,Adventure
+63,63,Pacific Rim,Fantasy
+63,63,Pacific Rim,Sci-Fi
+64,64,Pain & Gain,Comedy
+64,64,Pain & Gain,Crime
+64,64,Pain & Gain,Drama
+65,65,Paranoia,Drama
+65,65,Paranoia,Thriller
+66,66,Parkland,Drama
+67,67,Percy Jackson: Sea of Monsters,Adventure
+67,67,Percy Jackson: Sea of Monsters,Family
+67,67,Percy Jackson: Sea of Monsters,Fantasy
+68,68,Planes,Animation
+68,68,Planes,Adventure
+68,68,Planes,Comedy
+68,68,Planes,Family
+69,69,Prisoners,Crime
+69,69,Prisoners,Drama
+69,69,Prisoners,Thriller
+70,70,R.I.P.D.,Action
+70,70,R.I.P.D.,Comedy
+70,70,R.I.P.D.,Crime
+70,70,R.I.P.D.,Fantasy
+71,71,Red 2,Action
+71,71,Red 2,Comedy
+71,71,Red 2,Crime
+71,71,Red 2,Thriller
+72,72,Riddick,Action
+72,72,Riddick,Sci-Fi
+72,72,Riddick,Thriller
+73,73,Romeo and Juliet,Drama
+73,73,Romeo and Juliet,Romance
+74,74,Runner Runner,Crime
+74,74,Runner Runner,Drama
+74,74,Runner Runner,Thriller
+75,75,Rush,Action
+75,75,Rush,Biography
+75,75,Rush,Drama
+75,75,Rush,Sport
+76,76,Safe Haven,Drama
+76,76,Safe Haven,Mystery
+76,76,Safe Haven,Romance
+76,76,Safe Haven,Thriller
+77,77,Scenic Route,Drama
+77,77,Scenic Route,Thriller
+78,78,Side Effects,Crime
+78,78,Side Effects,Drama
+78,78,Side Effects,Thriller
+79,79,Star Trek Into Darkness,Action
+79,79,Star Trek Into Darkness,Adventure
+79,79,Star Trek Into Darkness,Sci-Fi
+80,80,Stoker,Drama
+80,80,Stoker,Mystery
+80,80,Stoker,Thriller
+81,81,The Bling Ring,Crime
+81,81,The Bling Ring,Drama
+82,82,The Butler,Biography
+82,82,The Butler,Drama
+83,83,The Call,Crime
+83,83,The Call,Thriller
+84,84,The Colony,Action
+84,84,The Colony,Sci-Fi
+84,84,The Colony,Thriller
+85,85,The Conjuring,Horror
+85,85,The Conjuring,Thriller
+86,86,The Counselor,Crime
+86,86,The Counselor,Drama
+86,86,The Counselor,Thriller
+87,87,The Croods,Animation
+87,87,The Croods,Adventure
+87,87,The Croods,Comedy
+87,87,The Croods,Family
+87,87,The Croods,Fantasy
+88,88,The East,Crime
+88,88,The East,Drama
+88,88,The East,Thriller
+89,89,The Family,Action
+89,89,The Family,Comedy
+89,89,The Family,Crime
+90,90,The Fifth Estate,Biography
+90,90,The Fifth Estate,Drama
+91,91,The Frozen Ground,Biography
+91,91,The Frozen Ground,Crime
+91,91,The Frozen Ground,Thriller
+92,92,The Great Gatsby,Drama
+92,92,The Great Gatsby,Romance
+93,93,The Hangover Part III,Comedy
+94,94,The Heat,Action
+94,94,The Heat,Comedy
+94,94,The Heat,Crime
+95,95,The Hobbit: The Desolation of Smaug,Adventure
+95,95,The Hobbit: The Desolation of Smaug,Drama
+95,95,The Hobbit: The Desolation of Smaug,Fantasy
+96,96,The Host,Adventure
+96,96,The Host,Romance
+96,96,The Host,Sci-Fi
+97,97,The Hunger Games: Catching Fire,Action
+97,97,The Hunger Games: Catching Fire,Adventure
+97,97,The Hunger Games: Catching Fire,Sci-Fi
+97,97,The Hunger Games: Catching Fire,Thriller
+98,98,The Internship,Comedy
+99,99,The Kings of Summer,Comedy
+99,99,The Kings of Summer,Drama
+100,100,The Last Days on Mars,Sci-Fi
+100,100,The Last Days on Mars,Thriller
+101,101,The Lone Ranger,Action
+101,101,The Lone Ranger,Adventure
+101,101,The Lone Ranger,Western
+102,102,The Mortal Instruments: City of Bones,Action
+102,102,The Mortal Instruments: City of Bones,Adventure
+102,102,The Mortal Instruments: City of Bones,Drama
+102,102,The Mortal Instruments: City of Bones,Fantasy
+102,102,The Mortal Instruments: City of Bones,Mystery
+102,102,The Mortal Instruments: City of Bones,Romance
+103,103,The Purge,Horror
+103,103,The Purge,Sci-Fi
+103,103,The Purge,Thriller
+104,104,The Smurfs 2,Animation
+104,104,The Smurfs 2,Comedy
+104,104,The Smurfs 2,Family
+104,104,The Smurfs 2,Fantasy
+105,105,The Spectacular Now,Comedy
+105,105,The Spectacular Now,Drama
+105,105,The Spectacular Now,Romance
+106,106,The Way Way Back,Comedy
+106,106,The Way Way Back,Drama
+107,107,The Wolf of Wall Street,Biography
+107,107,The Wolf of Wall Street,Crime
+107,107,The Wolf of Wall Street,Drama
+108,108,The Wolverine,Action
+108,108,The Wolverine,Adventure
+108,108,The Wolverine,Fantasy
+108,108,The Wolverine,Sci-Fi
+109,109,The World's End,Action
+109,109,The World's End,Comedy
+109,109,The World's End,Sci-Fi
+110,110,This Is the End,Comedy
+110,110,This Is the End,Fantasy
+111,111,Thor: The Dark World,Action
+111,111,Thor: The Dark World,Adventure
+111,111,Thor: The Dark World,Fantasy
+112,112,Trance,Crime
+112,112,Trance,Drama
+112,112,Trance,Mystery
+112,112,Trance,Thriller
+113,113,Turbo,Animation
+113,113,Turbo,Adventure
+113,113,Turbo,Comedy
+113,113,Turbo,Family
+113,113,Turbo,Sport
+114,114,V/H/S/2,Horror
+114,114,V/H/S/2,Thriller
+115,115,Warm Bodies,Comedy
+115,115,Warm Bodies,Horror
+115,115,Warm Bodies,Romance
+116,116,We Are What We Are,Drama
+116,116,We Are What We Are,Horror
+116,116,We Are What We Are,Thriller
+117,117,We're the Millers,Comedy
+117,117,We're the Millers,Crime
+118,118,White House Down,Action
+118,118,White House Down,Drama
+118,118,White House Down,Thriller
+119,119,World War Z,Action
+119,119,World War Z,Adventure
+119,119,World War Z,Horror
+119,119,World War Z,Sci-Fi
+119,119,World War Z,Thriller
+120,120,Zero Charisma,Comedy
+121,121,jOBS,Biography
+121,121,jOBS,Drama

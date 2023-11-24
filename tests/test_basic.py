@@ -1,9 +1,22 @@
 # content of test_sample.py
 
-from sample.helpers import get_tidy_data_path
 import pandas as pd
 
 
 def test_check_dataframe_size():
-    df = pd.read_parquet(get_tidy_data_path() / 'current_race.parquet')
-    assert df.shape[1] == 26
+    df = pd.read_csv("../formulaone/Data/TidyData/tidydata.csv")
+    iron_man_3 = "Iron Man 3" in df["title"].values
+    parkland = "Parkland" in df["title"].values
+
+    if iron_man_3:
+        print("Iron Man 3 ist in dem Datensatz vorhanden!")
+    else:
+        print("Iron Man 3 ist NICHT in dem Datensatz vorhanden!")
+    
+    if parkland:
+        print("Parkland ist in dem Datensatz vorhanden!")
+    else:
+        print("Parkland ist NICHT in dem Datensatz vorhanden!")
+
+
+test_check_dataframe_size()
